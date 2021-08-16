@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JetpackComposeLayouts.iml" filepath="$PROJECT_DIR$/.idea/modules/JetpackComposeLayouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JetpackComposeLayouts.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JetpackComposeLayouts.app.iml" />
     </modules>
   </component>
 </project>
